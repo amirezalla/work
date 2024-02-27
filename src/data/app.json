@@ -1,0 +1,62 @@
+{
+    "settings": {
+        "siteName": "Amirreza Allahverdi",
+        "formspreeURL": "https://formspree.io/f/xeqykaeo",
+        "mailchimp": {
+            "url": "",
+            "key": "98e6a36b5a606b018507c4c8aa755ae1-us14"
+        }
+    },
+    "header": {
+        "logo": {
+            "symbol": "A",
+            "link": "/"
+        },
+        "button": {
+            "link": "/contact"
+        },
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "Projects",
+                "link": "/projects",
+                "children": 0
+            },
+            {
+                "label": "Blog",
+                "link": "/blog",
+                "children": 0
+            },
+            {
+                "label": "Story",
+                "link": "/story",
+                "children": 0
+            },
+            {
+                "label": "Contact Me",
+                "link": "/contact",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "copy": "© 2024. All rights reserved.",
+        "dev": "Developed by: &nbsp; Amirreza Allahverdi "
+    },
+    "social": [
+        {
+            "link": "https://ig.com/sempreamir",
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
+        },
+        {
+            "link": "https://github.com/amirezalla",
+            "icon": "fab fa-github",
+            "title": "Github"
+        }
+    ]
+}

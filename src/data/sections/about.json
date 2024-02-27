@@ -1,0 +1,12 @@
+{
+    "avatar": {
+        "image": "/img/person/avatar.jpg",
+        "alt": "avatar"
+    },
+    "title": "Hi! My name is Amirreza, <br/>I’m Web Developer based in Rome 🏛️",
+    "description": "As a Web Developer deeply committed to crafting extraordinary user experiences, my passion lies in converting intricate concepts into accessible and aesthetically pleasing designs. I am driven by the challenge of simplifying the complex, making digital interactions not just possible, but also enjoyable. With meticulous attention to detail and a dedication to the user's perspective, my objective is always to create meaningful and engaging solutions that resonate with users. Whether it’s through responsive layouts, interactive features, or dynamic content, my mission is to invigorate your digital products. Let’s join forces to elevate your online presence and captivate your audience!",
+    "signature": {
+        "image": "/img/person/sign.svg",
+        "alt": "signature"
+    }
+}

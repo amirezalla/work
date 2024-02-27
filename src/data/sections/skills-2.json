@@ -1,0 +1,25 @@
+{
+    "title": "Hard Skills",
+    "items": [
+        {
+            "label": "Figma",
+            "value": "95",
+            "image": "/img/icons/figma.png"
+        },
+        {
+            "label": "Laravel",
+            "value": "95",
+            "image": "/img/icons/laravel.png"
+        },
+        {
+            "label": "Next Js",
+            "value": "70",
+            "image": "/img/icons/next.png"
+        },
+        {
+            "label": "Solidity",
+            "value": "60",
+            "image": "/img/icons/solidity.png"
+        }
+    ]
+}

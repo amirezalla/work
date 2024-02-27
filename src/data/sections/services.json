@@ -1,0 +1,23 @@
+{
+    "title": "Services",
+    "items": [
+        {
+            "title": "UI/UX Design",
+            "icon": "/img/icons/1.svg",
+            "text": "User Interface Design: Focusing on the look and layout of a product, ensuring that it is aesthetically pleasing, Improving the overall experience of users when interacting with the product, aiming for ease of use and satisfaction, Designing engaging interfaces with well-thought-out behaviors.",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "Full-stack Developer",
+            "icon": "/img/icons/web-development.svg",
+            "text": "Crafting the visual and interactive elements of web applications, Building the server, application, and database that manage and store application data, Streamlining and automating the processes between software development and IT teams to build, test, and release software faster and more reliably.",
+            "link": "/services/service-2"
+        },
+        {
+            "title": "Web Architect",
+            "icon": "/img/icons/database.svg",
+            "text": "Creating the structure and design of websites to ensure functionality and a great user experience, Connecting various computing systems and software applications physically or functionally to act as a coordinated whole, Ensuring the web architecture can handle growth in users or data without performance loss.",
+            "link": "/services/service-3"
+        }
+    ]
+}
