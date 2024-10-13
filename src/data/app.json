@@ -32,11 +32,6 @@
                 "children": 0
             },
             {
-                "label": "Story",
-                "link": "/story",
-                "children": 0
-            },
-            {
                 "label": "Contact Me",
                 "link": "/contact",
                 "children": 0
