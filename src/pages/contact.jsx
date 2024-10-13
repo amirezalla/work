@@ -16,11 +16,11 @@ const Contact = () => {
             <ul className="mil-puplication-details mil-up mil-mb-90">
                 <li>
                     <span className="mil-upper mil-accent">Call: </span>&nbsp;&nbsp;
-                    <span className="mil-upper mil-dark">+27(034)765 64 X5</span>
+                    <span className="mil-upper mil-dark">+39(334)249 55 66</span>
                 </li>
                 <li>
                     <span className="mil-upper mil-accent">Write: </span>&nbsp;&nbsp;
-                    <span className="mil-upper mil-dark">miller.themes@gmail.com</span>
+                    <span className="mil-upper mil-dark">allahverdiamirreza@gmail.com</span>
                 </li>
             </ul>
         </div>
@@ -28,7 +28,7 @@ const Contact = () => {
         {/* map */}
         <div className="mil-map mil-mb-90">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1396.5769090312324!2d-73.6519672!3d45.5673453!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91f8abc30e0ff%3A0xfc6d9cbb49022e9c!2sManoir%20Saint-Joseph!5e0!3m2!1sen!2sua!4v1685485811069!5m2!1sen!2sua" 
+              src="https://maps.app.goo.gl/UyVyk7b2tovaYKwM8?g_st=com.google.maps.preview.copy" 
               style={{"border": "0"}} 
               allowFullScreen 
               loading="lazy" 
